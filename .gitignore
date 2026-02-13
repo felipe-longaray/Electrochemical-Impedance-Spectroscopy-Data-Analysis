@@ -1,0 +1,10 @@
+# R specific files
+.RData
+.Rhistory
+.Rapp.history
+.Rproj.user/
+*.Rproj
+
+# Ignore raw datasets
+*.csv
+*.xlsx
